@@ -1,0 +1,46 @@
+[
+    {
+        "nome": "Cropped preto",
+        "Tamanho": "P - M - G - GG",
+        "preço": 40.00,
+        "imagem":"img/teste1.jpg"
+
+
+    },
+    {
+        "nome":"Calça jeans",
+        "Tamanho":"P - M - G - GG",
+        "preço": 175.00,
+        "imagem": "img/teste2.jpg"
+
+    }
+    {
+       "nome": "Calça couro",
+       "Tamanho": "P - M - G - GG",
+       "preço": 200.00,
+       "imagem":"img/teste3.jpg"
+
+    }
+    {
+       "nome": "Vestido preto",
+       "tamanho": "P - M - G - GG",
+       "preço": 179.99,
+       "imagem": "img/teste4.jpg"
+    }
+    {
+        "nome": "cropped cinza",    
+        "Tamanho": "P - M - G - GG",
+        "preço": 90.00,
+        "imagem":"img/teste5.jpg"
+    }
+    {
+        "nome": "Saia preta",
+        "Tamanho":"P - M - G - GG",
+        "preço": 89.99,
+        "imagem":"img/teste6.jpg"
+    }  
+      
+
+
+    
+]
